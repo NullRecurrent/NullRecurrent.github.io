@@ -1,13 +1,13 @@
 # Site settings
-title: oukohou
+title: NullRecurrent
 subtitle: [ 璇珠杂俎]
 keywords: oukohou
-description: 我梦扬州，便想到扬州梦我。幸会。微信公众号：oukohou.
+description: 莫学韩卢逐块，直须狮子咬人。
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://www.oukohou.wang/" # 你的域名
-page_no_title: "oukohou's blog" # 文章无标题时默认显示内容
+page_no_title: "NullRecurrent's blog" # 文章无标题时默认显示内容
 beian: # "备案号"
-author: oukohou
+author: 零常返
 email: oukohou@outlook.com
 
 # Build settings
@@ -58,14 +58,11 @@ menu:
 # Link settings
 links: # 友情链接
 
-  - title: ccslience's blog
-    url: http://ccslience.oukohou.wang/
   - title: oukohou's github
     url: https://github.com/oukohou
 #  - title:
 #    url: http://jekyllcn.com/
-  - title: Jekyll blog system
-    url: http://jekyllcn.com/
+ 
 
 
 # Google Analytics
