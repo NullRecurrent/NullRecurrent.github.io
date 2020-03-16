@@ -1,14 +1,14 @@
 # Site settings
 title: NullRecurrent
 subtitle: [ 璇珠杂俎]
-keywords: oukohou
+keywords: NullRecurrent
 description: 莫学韩卢逐块，直须狮子咬人。
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://www.wikileaks.org/" # 你的域名
 page_no_title: "NullRecurrent's blog" # 文章无标题时默认显示内容
 beian: # "备案号"
 author: 零常返
-email: oukohou@outlook.com
+email: NullRecurrent@gmail.com
 
 # Build settings
 permalink: /:year/:month/:day/:title/
@@ -71,7 +71,7 @@ ga_domain: www.oukohou.wang              # 默认的是 auto, 这里我是自定
 
 
 # Code hub settings
-codehub: # 代码仓库
+codehub: # 代仓库
   - title: Github
     url: https://github.com/oukohou
 
