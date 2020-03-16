@@ -71,9 +71,9 @@ ga_domain: www.oukohou.wang              # 默认的是 auto, 这里我是自定
 
 
 # Code hub settings
-codehub: # 代仓库
-  - title: Github
-    url: https://github.com/oukohou
+#codehub: # 代仓库
+ # - title: Github
+  #  url: https://github.com/oukohou
 
 
 valine:
