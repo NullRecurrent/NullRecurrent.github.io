@@ -7,7 +7,7 @@ music-id:   405987927
 date:   2018-08-28 19:42:35 +0800
 categories: [日志] 
 ---
-Hello there!
+Hi there!
 
 This is my first blog on my blog.
 
