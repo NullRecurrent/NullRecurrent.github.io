@@ -75,5 +75,6 @@ ga_domain: www.oukohou.wang              # 默认的是 auto, 这里我是自定
  # - title: Github
   #  url: https://github.com/oukohou
 
-disqus_shortname: NullRecurrent
+disqus:
+  shortname: NullRecurrent
  
