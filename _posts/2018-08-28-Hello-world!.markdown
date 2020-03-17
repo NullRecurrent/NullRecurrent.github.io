@@ -1,9 +1,9 @@
 ---
 layout: post
 title:  "Hello world!"
-tags:   hello diary
+tags:   hello
 music: true
-music-id:   405987927
+music-id: 405987927
 date:   2018-08-28 19:42:35 +0800
 categories: [日志] 
 ---
