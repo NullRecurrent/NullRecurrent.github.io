@@ -45,7 +45,7 @@ jekyll server
 ```
 
 **Any star, fork or [donation](https://www.oukohou.wang/donate/ "赏个铜板") is highly appreciated!!!**  
-![yasashii](https://raw.githubusercontent.com/oukohou/image_gallery/master/blogs/anime/%E6%B8%A9%E6%9F%94%E7%9A%84%E7%94%B7%E5%AD%A9%E5%AD%90.jpg "当然，女孩子会更温柔的啦～～")  
+![yasashii]
 
 ------
 
