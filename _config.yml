@@ -27,7 +27,7 @@ kramdown:
 
 
 # Pageinate settings
-paginate: 8 # 分页大小
+paginate: 12 # 分页大小
 paginate_path: "page/:num/"
 
 # Search settings
