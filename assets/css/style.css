@@ -42,7 +42,7 @@ a, button.submit {
 }
 
 a:hover, a:active {
-    color: #444;
+    color: #333;
 }
 
 a:focus {
@@ -73,7 +73,7 @@ a:focus {
 
 #header .site-name #logo {
     font: bold 30px/1.12 "Times New Roman", Georgia, Times, sans-serif;
-    color: #555;
+    color: #444;
 }
 
 #header .site-name #logo span, #header .site-name #logo:hover {
@@ -98,13 +98,13 @@ a:focus {
     display: inline-block;
     padding: 3px 20px 3px;
     line-height: 30px;
-    color: #444;
+    color: #333;
     font-size: 13px;
     border: 1px solid transparent;
 }
 
 #header #nav-menu a:hover {
-    border-bottom-color: #444;
+    border-bottom-color: #333;
 }
 
 #header #nav-menu a.current {
@@ -126,7 +126,7 @@ a:focus {
 }
 
 #sidebar .widget .widget-title {
-    color: #555858;
+    color: #414957;
     line-height: 2.7;
     margin-top: 0;
     font-size: 16px;
@@ -192,7 +192,7 @@ a:focus {
     margin-top: 1.1em;
     font-size: 20px;
     font-weight: normal;
-    color: #888;
+    color: #e3f4ff;
 }
 
 .post {
