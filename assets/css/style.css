@@ -33,7 +33,7 @@ body {
 }
 
 a, button.submit {
-    color: #67ABD6;
+    color: #54AAEB;
     text-decoration: none;
     -webkit-transition: all .1s ease-in;
     -moz-transition: all .1s ease-in;
@@ -109,8 +109,8 @@ a:focus {
 
 #header #nav-menu a.current {
     border: 1px solid #C2C2C2;
-    border-bottom-color: #F2F2F2;
-    background-color: #F2F2F2;
+    border-bottom-color: #D9F0FF;
+    background-color: #D9F0FF;
 }
 
 #sidebar {
