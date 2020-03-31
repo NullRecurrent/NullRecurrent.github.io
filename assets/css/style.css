@@ -7,7 +7,7 @@
  */
 
 body {
-    background-color: #F2F2F2;
+    background-color: #C4DAE6;
     color: #444;
     font-family: "TIBch", "Classic Grotesque W01", "Helvetica Neue", Arial, "Hiragino Sans GB", "STHeiti", "Microsoft YaHei", "WenQuanYi Micro Hei", SimSun, sans-serif;
     -webkit-font-smoothing: antialiased;
@@ -33,7 +33,7 @@ body {
 }
 
 a, button.submit {
-    color: #6E7173;
+    color: #67ABD6;
     text-decoration: none;
     -webkit-transition: all .1s ease-in;
     -moz-transition: all .1s ease-in;
