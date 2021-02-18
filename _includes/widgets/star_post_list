@@ -1,6 +1,10 @@
 <div class="widget">
     <div class="widget-title"><i class="icon-star"> 推荐阅读&资源</i></div>
-       <ul class="post-list">
+      <ul class="post-list">
+        <li class="post-list-item"><a class="post-list-link" href="https://chinadigitaltimes.net/">中国数字时代</a></li>
+    </ul>
+      
+      <ul class="post-list">
         <li class="post-list-item"><a class="post-list-link" href="https://citizenlab.ca/category/lab-news/">CitizenLab</a></li>
     </ul>
       <ul class="post-list">
